@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kdxj
+- 👀 I’m interested in | Gamehacking
+- 🌱 I’m currently learning | Driver development and memory editing
