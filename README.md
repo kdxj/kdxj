@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kdxj
-- 👀 I’m interested in | Gamehacking
+- 👀 I’m interested in | Gamehacking, Low level development with microcontrollers 
 - 🌱 I’m currently learning | Driver development and memory editing
